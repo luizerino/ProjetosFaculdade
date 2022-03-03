@@ -1,0 +1,32 @@
+
+table, th, td{
+	
+	border-collapse: collapse;
+	border: solid #000080 3px;
+	font-family: helvetica;
+	border-style: solid;
+	width:500px;
+	font-family:helvetica;
+	text-align:center;	
+}
+
+.L{
+	
+	 text-align:center; padding-left: 400px; padding-top: 100px;
+}
+
+.numero{
+	
+	text-align: right;	
+}
+
+  table tr:nth-child(even){
+	
+	background: #ffffcc;	
+}
+  table tr:nth-child(odd){
+	
+	background:#eeeeee;	
+}
+
+
